@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "vYm3c66TR5taqwKUZfB/OqPTCjxokNkftnk00Li+HQo=",
+  "Source": "vatusAPI",
+  "BasePath": "_content/vatusAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
